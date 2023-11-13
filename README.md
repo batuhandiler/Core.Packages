@@ -1,1 +1,1 @@
-# Core.Packages
+Clean Architecture, DDD, TDD, CQRS, Response Request Pattern Mapping (AutoMapper), SOLID and Clean Code, Dynamic Search, Entity Framework, Extension, Global Error Handler, Validation Pipeline (Fluent Validation), Caching Pipeline (Redis), Logging (Serilog), Mailing, Moq, Transaction Pipeline (Transactional Operation), InMemory Cache, Security and JWT
